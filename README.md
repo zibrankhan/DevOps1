@@ -1,7 +1,7 @@
 # devops1
 step-1 clone the project
 
-step-2 developer 2 changes
+step-2 developer 2 changes in the project
 
 
 
